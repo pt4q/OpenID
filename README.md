@@ -1,3 +1,9 @@
+# Tutorial about Oauth2 in Spring Boot
+In this tutorial, I will learn how to configure Spring Security to work with OpenID (Oauth2 in the basic version is only for resource authorization).
+Link to this tutorial. [->](https://www.baeldung.com/spring-security-5-oauth2-login "click me!")
+
+
+
 # Custom project from start.vaadin.com
 
 This project was created from https://start.vaadin.com. It's a fully working Vaadin application that you continue developing locally.
